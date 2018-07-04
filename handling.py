@@ -27,3 +27,5 @@ except ZeroDivisionError as e:
 #     print("Divided by zero you moron")
 
 # i = 0/0
+
+# We added it here just for fun
